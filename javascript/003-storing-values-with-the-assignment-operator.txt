@@ -1,0 +1,6 @@
+/* Storing a value in a variable is called assignment. You can assign a value to a var using the assignment operator `=`*/
+
+var a;
+
+// For example
+a = 7

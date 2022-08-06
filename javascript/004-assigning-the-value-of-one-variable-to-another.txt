@@ -1,0 +1,8 @@
+/* you can also assign one var to another using the assignment operator */
+
+var a;
+a = 7;
+var b;
+
+// For example
+b = a;

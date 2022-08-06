@@ -1,0 +1,4 @@
+/** var 
+a `var` is a label that points to data that is stored in memory. You can store any of the 8 data types (undefined, null, boolean, string, symbol, bigint, number, and object) in a var. vars must not contain spaces or start with a numer.
+*/
+var myName;

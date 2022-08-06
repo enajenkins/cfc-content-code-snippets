@@ -1,0 +1,16 @@
+/** Initializing a var
+ * 
+ * Declaring a var:
+ * var myName;
+ * creating and labeling a space in memory where you can store data. 
+ * 
+ * Assigning a var:
+ * myName = Ena;
+ * storing data in that space in memory.
+ * 
+ * Initializing a var: 
+ * var myName - Ena;
+ * assigning the var a value the same time you declare it.
+*/
+
+var a = 9;
